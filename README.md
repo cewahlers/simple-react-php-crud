@@ -8,6 +8,7 @@ Create: Add new items to the database.
 Read: View existing items from the database.
 Update: Modify existing items in the database.
 Delete: Remove items from the database.
+
 Technologies Used
 
 React.js: Frontend JavaScript library for building user interfaces.
