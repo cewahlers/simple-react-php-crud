@@ -16,14 +16,17 @@ PHP: Backend scripting language for server-side development.
 MySQL: Database management system for storing data.
 
 Prerequisites:
+
 PHP installed on your system.
+
 MySQL installed on your system.
+
 NPM installed on your system.
+
 AXIOS installed on your system.
 
 Installation
 Clone the repository:
-run 
 git clone https://github.com/your-username/your-repo.git
 
 Navigate to the project directory:
