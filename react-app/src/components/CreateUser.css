@@ -1,0 +1,9 @@
+.CreateUser {
+    text-align: center;
+}
+
+div table {
+    margin-left: auto;
+    margin-right: auto;
+    cellSpacing: 10px;
+}
