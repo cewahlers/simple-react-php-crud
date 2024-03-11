@@ -25,7 +25,6 @@ NPM installed on your system.
 
 AXIOS installed on your system.
 
-Installation
 Clone the repository:
 git clone https://github.com/your-username/your-repo.git
 
